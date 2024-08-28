@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "794570254178",
+      "project_id": "connectthreeapp-a8ef8",
+      "storage_bucket": "connectthreeapp-a8ef8.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:794570254178:android:24fbc6941b535ffde5ae3b",
+          "android_client_info": {
+            "package_name": "com.example.car_price_prediction"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC3UhlFSqs2NGL3Du_atwjkD0umCOhkoos"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
